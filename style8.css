@@ -1,0 +1,51 @@
+body{margin: 0px;
+background-color: black;}
+
+
+
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(42, 39, 39);
+    padding: 0px 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 15px;
+    display: 15px;
+    display:block;text-align: center;
+
+}
+.navbar a:hover{
+    background-color: rgb(99, 234, 234);
+    color: rgb(39, 26, 26);
+}
+.navbar li{
+    float:left
+}
+h3{
+    color: aliceblue;
+}
+.b:hover{
+    background-color: rgb(23, 231, 161);
+    border-color: rgb(23, 231, 161);
+}
+.b{
+    border: 1px solid ;
+}
+#w{color: rgb(68, 126, 177);
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+#q{
+    padding-inline-start: 30%;
+}
+#e{text-align: center;}
+
